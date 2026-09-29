@@ -230,4 +230,4 @@ This repository serves as the official landing page for FRAPS. The software is d
 **Get the most recent version of FRAPS today!**
 
 ---
-**Last updated:** 2026-09-29 09:12:20 UTC
+**Last updated:** 2026-09-29 16:11:45 UTC
